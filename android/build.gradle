@@ -1,0 +1,20 @@
+// Top düzeydeki build.gradle dosyası
+
+// Kök proje için depoları ayarla
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+// Alt projeler için yapılandırmayı belirle
+subprojects {
+    // Uygulama modülüne bağımlı olan projeleri değerlendir
+    project.evaluationDependsOn(":app")
+}
+
+// Temizlik görevini tanımla
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

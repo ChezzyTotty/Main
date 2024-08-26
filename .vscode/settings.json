@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "type_traits": "cpp"
+    },
+    "cmake.sourceDirectory": "D:/logic_networks/windows"
+}

@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "366229891129",
+    "firebase_url": "https://hosting-cb11e-default-rtdb.firebaseio.com",
+    "project_id": "hosting-cb11e",
+    "storage_bucket": "hosting-cb11e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366229891129:android:b1f97b2dd901b336ee45e8",
+        "android_client_info": {
+          "package_name": "com.examle.logicnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366229891129-jje2evtbj31tdpka60iksd8rvuk2ll58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCxyVP4oA7ltvfhV8hX5zMfzajJRM9nkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366229891129-jje2evtbj31tdpka60iksd8rvuk2ll58.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366229891129-2o88eha5qmhaf1hl2536lk74tm3vfa6q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.logicnetworks"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366229891129:android:1e6a67d7d37cfd5cee45e8",
+        "android_client_info": {
+          "package_name": "com.example.logic_networks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366229891129-jje2evtbj31tdpka60iksd8rvuk2ll58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCxyVP4oA7ltvfhV8hX5zMfzajJRM9nkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366229891129-jje2evtbj31tdpka60iksd8rvuk2ll58.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366229891129-2o88eha5qmhaf1hl2536lk74tm3vfa6q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.logicnetworks"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1123510486638377~9479517427"
+    }
+  ],
+  "configuration_version": "1"
+}
